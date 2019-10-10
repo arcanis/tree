@@ -39,8 +39,8 @@
     "now-build": "npm run build"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-dom": "*"
+    "react": ">=15.0.0",
+    "react-dom": ">=15.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.8.19",
